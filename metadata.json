@@ -1,0 +1,6 @@
+{
+  "name": "AIMMER HOUSE TYCOON",
+  "description": "A playable 3D house-building and real estate tycoon game featuring open-world exploration, dynamic construction, property management, and drivable vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
